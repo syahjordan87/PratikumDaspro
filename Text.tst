@@ -1,0 +1,1 @@
+Hello Word, ini file random saja
